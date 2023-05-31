@@ -10,7 +10,7 @@ on:
       - master
       - 'releases/**'
 jobs:
-  BasicWorkflow:
+  Basic-Workflow:
     runs-on: ubuntu-latest
     steps:
       - run: echo " Job is executing as part of Basic workflow"
