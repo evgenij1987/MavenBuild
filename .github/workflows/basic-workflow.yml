@@ -1,4 +1,4 @@
-ame: GitHub Actions Demo
+name: GitHub Actions Demo
 run-name: Testing out GitHub Actions 
 on: [push]  #action which will trigger the workflow. It can be a single event or an array of events . we can have events like push , pull_request, schedule etc
 jobs:  #define the process which will make up the workflow . Each job represent the unit of work that can run independently. 
