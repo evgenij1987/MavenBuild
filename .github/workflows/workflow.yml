@@ -7,4 +7,4 @@ jobs:
   Basic-Workflow:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Executing Reusable Workflow
+      - run: echo "Executing Reusable Workflow"
